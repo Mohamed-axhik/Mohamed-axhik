@@ -440,8 +440,6 @@ Python • SQL • Power BI • Streamlit • Machine Learning
 
 </p>
 
-> Replace the profile links with your actual profile URLs.
-
 ---
 
 # 📊 GitHub Analytics
@@ -489,9 +487,7 @@ Python • SQL • Power BI • Streamlit • Machine Learning
 # 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/Mohamed-axhik/Mohamed-axhik/output/github-contribution-grid-snake-dark.svg"/>
-
 </p>
 
 
