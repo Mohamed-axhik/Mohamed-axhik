@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/mohamed-ashik-35810029a/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -494,7 +494,6 @@ Python • SQL • Power BI • Streamlit • Machine Learning
 
 </p>
 
-> **Important:** The snake animation won't work until you create a GitHub Actions workflow (I'll show you how below).
 
 ---
 
